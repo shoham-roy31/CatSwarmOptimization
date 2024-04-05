@@ -1,5 +1,5 @@
 # Cat Swarm Optimization
-Python implementation of an Evolution based Optimization algorithm, named Cat Swarm Optimization. This meta heuristic optimization technique was developed by Chu and Tsai (2007).Although there are many modified versions of CSO proposed, the original vanilla version is implemented.
+Python implementation of an Swarm based Optimization algorithm, named Cat Swarm Optimization. This meta heuristic optimization technique was developed by Chu and Tsai (2007).Although there are many modified versions of CSO proposed, the original vanilla version is implemented.
 
 Inspired from the behavior of a population of cats, where they are likely to be in either of the two modes, Seeking or Tracing Mode. Cats rather spend being alert in Seeking mode to conserve their energy to locate the pray before they execute their hunt. This process of locating the solution in a search space elaborates an efficient and accurate hunting behavior of cats.
 
